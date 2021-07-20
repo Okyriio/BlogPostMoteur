@@ -3,7 +3,7 @@
 
 BlogpostGPR4400
 
-Ce projet de jeu vient à l'origine dans le cadre du dernier module de la première année de ma formation à la SAE Institute.
+Ce projet vient à l'origine dans le cadre du dernier module de la première année de ma formation à la SAE Institute.
 
 Introduction :
 
