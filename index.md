@@ -7,11 +7,11 @@ Ce projet vient à l'origine dans le cadre du dernier module de la première ann
 
 Introduction :
 
-Pour ce dernier module de l'année nous avons eu comme défi de créer un moteur physique simple mais fonctionnel. Contrairement aux autres modules, il y a eu beaucoup de difficultés, ce module comportant beaucoup de maths et de physique, nous étions tous perplexe tout le long de ce défi.
+Pour ce dernier module de l'année nous avons eu comme défi de créer un moteur physique simple mais fonctionnel. Contrairement aux autres modules, il y a eu beaucoup de difficultés, ce module comportant beaucoup de maths et de physique, nous étions tous perplexes tout le long de ce défi.
 
 Les Vector2 :
 
-La base de tout notre moteur qui est en 2D se base sur les vecteurs. Nous avons donc créer des vecteurs utilisables avec tout les operators possible afin de nous faciliter la tache plus tard.
+La base de tout notre moteur qui est en 2D se base sur les vecteurs. Nous avons donc créer des vecteurs utilisables avec tout les operators possible afin de nous faciliter la tâche plus tard.
 ![image](https://user-images.githubusercontent.com/71374090/126316217-78395316-cb3b-4b71-8f8f-21e001421bfc.png)
 
 Les Circles :
@@ -32,7 +32,7 @@ Et dans le cas d'une intersection nous devons la résoudre, vient alors notre fo
 
 ![image](https://user-images.githubusercontent.com/71374090/126317681-5d7bf236-04b5-4093-a54d-4eecfdc0df6f.png)
 
-Ce calcul nous a imposé un autre problèmes, les cercles restaient collées entre-elle au lieu de rebondir, mais grâce à notre fonction "RelocateCenter" qui fait en sorte que une vois en collision les cercles ne restent pas collées les une aux autres et redéfini la position du centre du cercle assez loin du deuxième cercle.
+Ce calcul nous a imposé un autre problème, les cercles restaient collées entre-eux au lieu de rebondir, mais grâce à notre fonction "RelocateCenter" qui fait en sorte que une vois en collision les cercles ne restent pas collées les uns aux autres et redéfini la position du centre du cercle assez loin du deuxième cercle.
 
 ![image](https://user-images.githubusercontent.com/71374090/126318040-f1c56ef0-d6bc-4f15-b1c9-e714038d748d.png)
 
